@@ -4,7 +4,6 @@
 
 ## Tech Stack
 
----
 
 - **Frontend** : Java
 - **Backend(server)** : FastAPI
@@ -13,7 +12,6 @@
 
 ## Details
 
----
 
 ### Tab1 : Friends
 
@@ -44,32 +42,5 @@
 
 <시연 영상 및 사진>
 
----
 
-## Installation
 
-1. 레포지토리를 클론합니다:
-    ```bash
-    git clone https://github.com/yourusername/yourrepository.git
-    ```
-2. 필요한 종속성을 설치합니다:
-    ```bash
-    cd yourrepository
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-1. 백엔드 서버를 시작합니다:
-    ```bash
-    uvicorn main:app --reload
-    ```
-2. Android Studio를 사용하여 프론트엔드 애플리케이션을 실행합니다.
-
-## Contributing
-
-기여를 환영합니다! 개선 사항이 있으면 이슈를 등록하거나 풀 리퀘스트를 생성해 주세요.
-
-## License
-
-이 프로젝트는 MIT 라이센스 하에 배포됩니다. 자세한 내용은 `LICENSE` 파일을 참고하세요.
