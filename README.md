@@ -5,12 +5,16 @@
 - 안지형 : 프론트엔드, 디자이너
 - 박종민 : 백엔드
 
+
+
 ## Tech Stack
 
 - **Frontend** : Java
 - **Backend(server)** : FastAPI
 - **Database** : MongoDB
 - **IDE** : Android Studio, VSCode
+
+
 
 ## Details
 
