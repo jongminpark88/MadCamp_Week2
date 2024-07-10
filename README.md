@@ -1,9 +1,13 @@
 # MadCamp_Week2
 
-# 프로젝트 이름
+# 더치 Dutch
+앱 하나로 복잡하고 귀찮았던 정산을 한번에 도와주는 앱입니다.
+
+## Team
+- 안지형 : 프론트엔드, 디자이너
+- 박종민 : 백엔드
 
 ## Tech Stack
-
 
 - **Frontend** : Java
 - **Backend(server)** : FastAPI
